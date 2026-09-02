@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://t.me/AuraGramx"><img src="auragramx-social.png" alt="AuraGramX — Your Telegram, refined. Blue AuraGramX logo and illustrative phone artwork." width="100%"></a>
+  <a href="https://t.me/AuraGramx"><img src="banner.svg" alt="AuraGramX — Your Telegram, refined. Electric-blue AuraGramX logo." width="100%"></a>
 </p>
 
 <h1 align="center">AuraGramX</h1>
@@ -181,4 +181,4 @@ AuraGramX builds on the Telegram Android ecosystem and work by other client proj
 
 <p align="center"><strong>AuraGramX — Connect. Share. Evolve.</strong><br>
 Independent Telegram client · Android · NERO / MAHDI<br>
-<sub>Header artwork is a promotional illustration, not a literal application screenshot.</sub></p>
+<sub>Built around the AuraGramX identity. Not affiliated with Telegram.</sub></p>
